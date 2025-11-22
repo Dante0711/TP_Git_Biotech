@@ -1,0 +1,5 @@
+Git est un outil qui permet de suivre les versions d’un projet.
+Il sert à enregistrer chaque modification, revenir en arrière, comparer les changements
+et travailler facilement en équipe. Dans ce TP, j’ai appris à créer un dépôt GitHub,
+le cloner dans un notebook Colab, ajouter des fichiers et envoyer des commits vers GitHub.
+GitHub rend le projet accessible en ligne et facilite la collaboration.
