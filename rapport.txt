@@ -3,3 +3,7 @@ Il sert à enregistrer chaque modification, revenir en arrière, comparer les ch
 et travailler facilement en équipe. Dans ce TP, j’ai appris à créer un dépôt GitHub,
 le cloner dans un notebook Colab, ajouter des fichiers et envoyer des commits vers GitHub.
 GitHub rend le projet accessible en ligne et facilite la collaboration.
+
+Idée de projet : créer un pipeline d’analyse génomique utilisant Python, Biopython 
+et de l’analyse de séquences ADN. Git permettrait de suivre chaque étape du pipeline,
+tester de nouvelles versions, et collaborer avec d'autres étudiants.
